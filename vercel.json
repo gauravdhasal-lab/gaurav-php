@@ -1,0 +1,7 @@
+{
+  "name": "phpgaurav",
+  "version": 2,
+  "alias": ["my-domain.com", "my-alias"],
+	"scope": "my-team",
+	
+}
